@@ -23,4 +23,7 @@
 	android:resizeable="true"
 	android:anyDensity="true"
 	/>
+	
+	<uses-sdk android:minSdkVersion="5" 
+          android:targetSdkVersion="10" />
 </manifest> 

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, MainApp!</string>
-    <string name="app_name">Todo-List</string>
+    <string name="app_name">Simple Todo-List</string>
 </resources>
